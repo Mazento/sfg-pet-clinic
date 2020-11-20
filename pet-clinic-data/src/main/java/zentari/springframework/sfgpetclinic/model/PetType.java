@@ -1,4 +1,4 @@
-package sfgpetclinic.model;
+package zentari.springframework.sfgpetclinic.model;
 
 public class PetType {
 
